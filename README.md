@@ -1,4 +1,4 @@
-## Hi there 👋
+### About me
 I am a Saxion CMGT student from the Netherlands
 
 - 🔭 I’m interested in game development, game design, music, environmental art and storytelling
