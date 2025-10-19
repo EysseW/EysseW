@@ -14,5 +14,9 @@ I am a Saxion CMGT student from the Netherlands
 - Skript
 - Bash
 
-### My setup
+### Projects not on github:
+- https://gitlab.com/eyssew/hybrid-file-manager
+
+### Projects on github:
+You can find my github projects right below
 
