@@ -5,18 +5,13 @@ I am a Saxion CMGT student from the Netherlands
 - 🌱 I'm currently learning Unity in school and experimenting with minecraft modding at home
 - ⚡ I am very passionate about refreshing ideas to the video games, I try to think out of the box for any project I work on
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<!--
-**EysseW/EysseW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Reach me on <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-Here are some ideas to get you started:
+#### Programming languages I have worked with (for a considerable amount of time):
+- Java
+- C#
+- Skript
+- Bash
 
+### My setup
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
